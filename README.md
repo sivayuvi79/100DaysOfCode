@@ -7,11 +7,12 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#about-the-project"> ➤ About The Project</a></li>
-    <li><a href="#Rules"> ➤ Overview</a></li>
-    <li><a href="#Day1"> ➤ Day 1: Array Left Rotation </a></li>
-    <li><a href="#Day2"> ➤ Day 2: Insertion Sort </a></li>
-    <li><a href="#Day3"> ➤ Day 3: Sum of Multiples of 3 or 5  </a></li>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#Rules">Overview</a></li>
+    <li><a href="#Day1">Day 1: Array Left Rotation </a></li>
+    <li><a href="#Day2">Day 2: Insertion Sort </a></li>
+    <li><a href="#Day3">Day 3: Sum of Multiples of 3 or 5  </a></li>
+    <li><a href="#Day3">Day 4: Heap Sort - Max Heap  </a></li>
     <li><a href="#credits"> ➤ Credits</a></li>
   </ol>
 </details>
@@ -32,14 +33,14 @@ I belive 100 days of coding challage wil change our habbit, and incrase our codi
 
 <p align="justify"> 
 The following rules will be followed while doing this challenge.
-<ol>
+<ul>
 <li>Rule 1: You should code more than an hour.</li>
 <li>Rule 2: You Should post your code screenshot in twitter under #100DaysOfCode.</li>
 <li>Rule 3: You should track your code in Github</li>
 <li>Rule 4: If you want necesscerry break you can take one or two days in a week and add those days at end of your challange.</li>
 <li>Rule 5: If you are working professional dan't spend time for this challange at your working hours.</li>
 <li>Rule 6: I will be geniune with above rules for this challange.</li>
-</ol>
+</ul>
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -83,6 +84,20 @@ The following rules will be followed while doing this challenge.
 
 <p align="center"> 
 <img src="ScreenShots/Day_3.png" alt="Day 3 screenshot">
+<!--height="382px" width="737px"-->
+</p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<!-- Day 4 -->
+<h2 id="Day4"> :small_orange_diamond: Day 4: Heap Sort - Max Heap</h2>
+
+<p>In this problem i worked with Heap sort. In heap sort there are two type of sorting. Max Heam and Min Heat</p>
+<p>Here I use max heap</p>
+
+<pre><code>$ python MaxHeapSort.py </code></pre>
+
+<p align="center"> 
+<img src="ScreenShots/Day_4.png" alt="Day 4 screenshot">
 <!--height="382px" width="737px"-->
 </p>
 
