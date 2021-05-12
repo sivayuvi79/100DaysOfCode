@@ -9,12 +9,9 @@
   <ol>
     <li><a href="#about-the-project"> ➤ About The Project</a></li>
     <li><a href="#Rules"> ➤ Overview</a></li>
-    <li><a href="#project-files-description"> ➤ Project Files Description</a></li>
-    <li><a href="#getting-started"> ➤ Getting Started</a></li>
     <li><a href="#Day1"> ➤ Day 1: Array Left Rotation </a></li>
     <li><a href="#Day2"> ➤ Day 2: Insertion Sort </a></li>
     <li><a href="#Day3"> ➤ Day 3: Sum of Multiples of 3 or 5  </a></li>
-    <li><a href="#references"> ➤ References</a></li>
     <li><a href="#credits"> ➤ Credits</a></li>
   </ol>
 </details>
@@ -44,22 +41,6 @@ The following rules will be followed while doing this challenge.
 <li>Rule 6: I will be geniune with above rules for this challange.</li>
 </ol>
 </p>
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<!-- GETTING STARTED -->
-<h2 id="getting-started"> :book: Getting Started</h2>
-
-<p>You are able to start the game by typing the following commands in the command line:</p>
-<pre><code>$ python pacman.py</code></pre>
-
-<p>You can see the list of all options and their default values via:</p>
-<pre><code>$ python pacman.py -h</code></pre>
-<i>Note that all of the commands that appear in this project also appear in <code>commands.txt</code>, for easy copying and pasting.</i>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
