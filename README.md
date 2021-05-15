@@ -13,7 +13,8 @@
     <li><a href="#Day2">Day 2: Insertion Sort </a></li>
     <li><a href="#Day3">Day 3: Sum of Multiples of 3 or 5 </a></li>
     <li><a href="#Day4">Day 4: Heap Sort - Max Heap </a></li>
-    <li><a href="#Day4">➤Day 5: Quick Sort</a></li>
+    <li><a href="#Day5">Day 5: Quick Sort</a></li>
+    <li><a href="#Day6">➤Day 6: Counting Sort</a></li>
     <li><a href="#credits">  Credits</a></li>
   </ol>
 </details>
@@ -118,6 +119,21 @@ The following rules will be followed while doing this challenge.
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<!-- Day 6 -->
+<h2 id="Day6"> :small_orange_diamond: Day 6: Counting Sort</h2>
+
+<p>Day 2 i practiced counting sort algorithm. It is easy to learn.</p>
+<p>The concept is creat a new empty array with k range and store each unique count of array element in k array. And restore the count from k array with help of output array(length of orginal array)</p>
+
+<pre><code>$ python QuickSort.py </code></pre>
+
+<p align="center"> 
+<img src="ScreenShots/Day_6.png" alt="Day 6 screenshot">
+<!--height="382px" width="737px"-->
+</p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <!-- CREDITS -->
 <h2 id="credits"> :scroll: Credits</h2>
 
@@ -126,4 +142,3 @@ Sivaraman Arumugam
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SIvayuVI)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sivayuvi79)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivayuvi79/)
-Feedback: if you find any mistakes you can fork it and send a pull request to me.!
