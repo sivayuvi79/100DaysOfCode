@@ -15,7 +15,8 @@
     <li><a href="#Day4">Day 4: Heap Sort - Max Heap </a></li>
     <li><a href="#Day5">Day 5: Quick Sort</a></li>
     <li><a href="#Day6">Day 6: Counting Sort</a></li>
-    <li><a href="#Day7">➤Day 7: Radix Sort</a></li>
+    <li><a href="#Day7">Day 7: Radix Sort</a></li>
+    <li><a href="#Day8">➤Day 8: Bucket Sort</a></li>
     <li><a href="#credits">  Credits</a></li>
   </ol>
 </details>
@@ -127,7 +128,7 @@ The following rules will be followed while doing this challenge.
 <p>Day 6 i practiced counting sort algorithm. It is easy to learn.</p>
 <p>The concept is creat a new empty array with k range and store each unique count of array element in k array. And restore the count from k array with help of output array(length of orginal array)</p>
 
-<pre><code>$ python QuickSort.py </code></pre>
+<pre><code>$ python CountingSort.py </code></pre>
 
 <p align="center"> 
 <img src="ScreenShots/Day_6.png" alt="Day 6 screenshot">
@@ -142,10 +143,28 @@ The following rules will be followed while doing this challenge.
 <p>Day 7 i practiced Radix sort algorithm. It is implemented based on counting sort algorithm</p>
 <p>The concept is create 10 buckets(0-9) and loop from least significant digit to most significant digit each loop the array should start based on the digit with help of counting sort.</p>
 
-<pre><code>$ python QuickSort.py </code></pre>
+<pre><code>$ python RadixSort.py </code></pre>
 
 <p align="center"> 
 <img src="ScreenShots/Day_7.png" alt="Day 7 screenshot">
+<!--height="382px" width="737px"-->
+</p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+<!-- Day 8 -->
+<h2 id="Day8"> :small_orange_diamond: Day 8: Bucket Sort</h2>
+
+<p>Day 8 i practiced Bucket sort algorithm.</p>
+<p>The concept is create n buckets and add n*arr[i] into same bucket after that sort each bucket with help of insertion sort.
+Finally combine all the buckets.</p>
+
+<pre><code>$ python BucketSort.py </code></pre>
+
+<p align="center"> 
+<img src="ScreenShots/Day_8.png" alt="Day 8 screenshot">
+<img src="ScreenShots/Day_8_out.png" alt="Day 8 out screenshot">
 <!--height="382px" width="737px"-->
 </p>
 
