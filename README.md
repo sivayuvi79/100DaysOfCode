@@ -16,7 +16,8 @@
     <li><a href="#Day5">Day 5: Quick Sort</a></li>
     <li><a href="#Day6">Day 6: Counting Sort</a></li>
     <li><a href="#Day7">Day 7: Radix Sort</a></li>
-    <li><a href="#Day8">➤Day 8: Bucket Sort</a></li>
+    <li><a href="#Day8">Day 8: Bucket Sort</a></li>
+    <li><a href="#Day9">➤Day 9: Data Structures : Stack and Queue</a></li>
     <li><a href="#credits">  Credits</a></li>
   </ol>
 </details>
@@ -58,7 +59,7 @@ The following rules will be followed while doing this challenge.
 <pre><code>$ python Day_1_arrays_left_rotation.py </code></pre>
 
 <p align="center"> 
-<img src="ScreenShots/Day_1.png" alt="Day 1 screenshot">
+<img src="ScreenShots/Day_1.png" alt="Day 1 screenshot" height="400" width="500">
 <!--height="382px" width="737px"-->
 </p>
 
@@ -73,7 +74,7 @@ The following rules will be followed while doing this challenge.
 <pre><code>$ python Day_2_insertion_sort.py </code></pre>
 
 <p align="center"> 
-<img src="ScreenShots/Day_2.png" alt="Day 2 screenshot">
+<img src="ScreenShots/Day_2.png" alt="Day 2 screenshot" height="400" width="500">
 <!--height="382px" width="737px"-->
 </p>
 
@@ -87,7 +88,7 @@ The following rules will be followed while doing this challenge.
 <pre><code>$ python day_3_eulers_1.py </code></pre>
 
 <p align="center"> 
-<img src="ScreenShots/Day_3.png" alt="Day 3 screenshot">
+<img src="ScreenShots/Day_3.png" alt="Day 3 screenshot" height="400" width="500">
 <!--height="382px" width="737px"-->
 </p>
 
@@ -101,7 +102,7 @@ The following rules will be followed while doing this challenge.
 <pre><code>$ python MaxHeapSort.py </code></pre>
 
 <p align="center"> 
-<img src="ScreenShots/Day_4.png" alt="Day 4 screenshot">
+<img src="ScreenShots/Day_4.png" alt="Day 4 screenshot" height="400" width="500">
 <!--height="382px" width="737px"-->
 </p>
 
@@ -116,7 +117,7 @@ The following rules will be followed while doing this challenge.
 <pre><code>$ python QuickSort.py </code></pre>
 
 <p align="center"> 
-<img src="ScreenShots/Day_5.png" alt="Day 5 screenshot">
+<img src="ScreenShots/Day_5.png" alt="Day 5 screenshot" height="400" width="500">
 <!--height="382px" width="737px"-->
 </p>
 
@@ -131,7 +132,7 @@ The following rules will be followed while doing this challenge.
 <pre><code>$ python CountingSort.py </code></pre>
 
 <p align="center"> 
-<img src="ScreenShots/Day_6.png" alt="Day 6 screenshot">
+<img src="ScreenShots/Day_6.png" alt="Day 6 screenshot" height="400" width="500">
 <!--height="382px" width="737px"-->
 </p>
 
@@ -146,7 +147,7 @@ The following rules will be followed while doing this challenge.
 <pre><code>$ python RadixSort.py </code></pre>
 
 <p align="center"> 
-<img src="ScreenShots/Day_7.png" alt="Day 7 screenshot">
+<img src="ScreenShots/Day_7.png" alt="Day 7 screenshot" height="400" width="500">
 <!--height="382px" width="737px"-->
 </p>
 
@@ -163,8 +164,29 @@ Finally combine all the buckets.</p>
 <pre><code>$ python BucketSort.py </code></pre>
 
 <p align="center"> 
-<img src="ScreenShots/Day_8.png" alt="Day 8 screenshot">
-<img src="ScreenShots/Day_8_out.png" alt="Day 8 out screenshot">
+<img src="ScreenShots/Day_8.png" alt="Day 8 screenshot" height="400" width="500">
+<img src="ScreenShots/Day_8_out.png" alt="Day 8 out screenshot" height="400" width="500">
+<!--height="382px" width="737px"-->
+</p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+<!-- Day 9 -->
+<h2 id="Day9"> :small_orange_diamond: Day 9: Data Structure : Stack and Queue</h2>
+
+<p>Day 8, I started with Data structures</p>
+<p>Stack : Stack is the user defined data structure But in python list data structure provide same as Stack, the most recent inserted element should came out first, The main operation of stack is push and pop</p>
+<p>Queue : ueue is the user defined data structure But in python list data structure provide same as Queue with small modification, It follows FIFO like the first inserted element should come out first, The main operation of Queue is enque and deque</p>
+
+<pre><code>$ python Stack.py </code></pre>
+<pre><code>$ python Queue.py </code></pre>
+
+<p align="center"> 
+<img src="ScreenShots/Day_9_stack.png" alt="Day 9 screenshot" height="400" width="500">
+<img src="ScreenShots/Day_9_stack_out.png" alt="Day 9 out screenshot" height="400" width="500">
+<img src="ScreenShots/Day_9_queue.png" alt="Day 9 screenshot" height="400" width="500">
+<img src="ScreenShots/Day_9_queue_out.png" alt="Day 9 out screenshot" height="400" width="500">
 <!--height="382px" width="737px"-->
 </p>
 
