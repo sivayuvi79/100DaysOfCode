@@ -18,7 +18,8 @@
     <li><a href="#Day7">Day 7: Radix Sort</a></li>
     <li><a href="#Day8">Day 8: Bucket Sort</a></li>
     <li><a href="#Day9">Day 9: Data Structures : Stack and Queue</a></li>
-    <li><a href="#Day10">➤Day 10: Problem solving</a></li>
+    <li><a href="#Day10">Day 10: Problem solving</a></li>
+    <li><a href="#Day11">➤Day 11: Problem solving</a></li>
     <li><a href="#credits">  Credits</a></li>
   </ol>
 </details>
@@ -202,6 +203,21 @@ Finally combine all the buckets.</p>
 
 <p align="center"> 
 <img src="ScreenShots/Day_10.png" alt="Day 10 screenshot" height="400" width="500">
+<!--height="382px" width="737px"-->
+</p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+<!-- Day 11 -->
+<h2 id="Day11"> :small_orange_diamond: Day 11: Problem Solving</h2>
+
+<p>Practiced some more python syntax</p>
+
+<pre><code>$ python more_pythonic.py </code></pre>
+
+<p align="center"> 
+<img src="ScreenShots/Day_11.png" alt="Day 11 screenshot" height="400" width="500">
 <!--height="382px" width="737px"-->
 </p>
 
