@@ -1,0 +1,35 @@
+#User function Template for python3
+
+class Solution:
+    def rearrange(self,arr, n):
+        # code here
+        from itertools import zip_longest as zip
+        pos = []
+        neg = []
+        result = []
+        for i in arr:
+            if i >= 0: pos.append(i)
+            else : neg.append(i)
+        for i, k in zip(pos, neg):
+            if i is not None:
+                result.append(i)
+            if k is not None:
+                result.append(k)
+        arr[:] = result
+#{ 
+#  Driver Code Starts
+#Initial Template for Python 3
+
+if __name__ == '__main__':
+	tc = int(input())
+	while tc > 0:
+		n = int(input())
+		arr = list(map(int, input().strip().split()))
+		ob = Solution()
+		ob.rearrange(arr, n)
+		for x in arr:
+			print(x, end=" ")
+		print()
+		tc -= 1
+
+# } Driver Code Ends
